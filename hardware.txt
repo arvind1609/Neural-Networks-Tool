@@ -1,0 +1,3 @@
+memory 1.6e+7
+bandwidth 1.0e+10
+macs 1.0e+09
